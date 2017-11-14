@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620281961989",
+    "firebase_url": "https://streess-b9be0.firebaseio.com",
+    "project_id": "streess-b9be0",
+    "storage_bucket": "streess-b9be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620281961989:android:902d09dacc99d9a2",
+        "android_client_info": {
+          "package_name": "com.example.joovictorfirmino.stressless3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620281961989-lhgijf62dss3jbce0v3f2gfc6gqe3ia0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joovictorfirmino.stressless3",
+            "certificate_hash": "823dd45f1cfb95d594bbb012665d9ac7d750f2e8"
+          }
+        },
+        {
+          "client_id": "620281961989-5butab8pq3g0gv9ve4do8v4s3n071kpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtE0mNwlTY3wOF9Y5ygs1DhZnKWrDoD_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620281961989-5butab8pq3g0gv9ve4do8v4s3n071kpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
